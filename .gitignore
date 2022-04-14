@@ -94,6 +94,9 @@ logs
 results
 node_modules
 .node_history
+## Becouse heroku production:
+
+package.json
 
 ############################
 # Tests
